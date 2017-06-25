@@ -1,38 +1,38 @@
 {
-    "id": "c6b38e2c-96e0-4e35-90ae-88bb512af4c7",
+    "id": "59af7d34-56f4-403c-aa84-fceaa68ca5be",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_laser",
+    "name": "obj_enemy01",
     "eventList": [
         {
-            "id": "25af5cf2-accc-4b07-9c3a-10d41a4ff789",
+            "id": "b3aa1b81-97cf-44bf-8257-3f4ca72179d8",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": true,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 0,
-            "m_owner": "c6b38e2c-96e0-4e35-90ae-88bb512af4c7"
+            "m_owner": "59af7d34-56f4-403c-aa84-fceaa68ca5be"
         },
         {
-            "id": "ab2e5556-d15e-4175-8fd9-2971c020b47a",
+            "id": "6c89d194-0486-4140-948b-8144da48f091",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": true,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
-            "eventtype": 7,
-            "m_owner": "c6b38e2c-96e0-4e35-90ae-88bb512af4c7"
+            "eventtype": 3,
+            "m_owner": "59af7d34-56f4-403c-aa84-fceaa68ca5be"
         },
         {
-            "id": "ef5a8437-beb4-43af-8a9d-a456d4422478",
+            "id": "d9da5bee-5d67-49dc-9a59-6697520d1060",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": true,
-            "collisionObjectId": "59af7d34-56f4-403c-aa84-fceaa68ca5be",
+            "collisionObjectId": "a5ef8692-e3fe-4401-80ff-7c9f777ccee3",
             "enumb": 0,
             "eventtype": 4,
-            "m_owner": "c6b38e2c-96e0-4e35-90ae-88bb512af4c7"
+            "m_owner": "59af7d34-56f4-403c-aa84-fceaa68ca5be"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -51,6 +51,6 @@
     "physicsShapePoints": null,
     "physicsStartAwake": true,
     "solid": false,
-    "spriteId": "db6c8243-8b92-4110-b397-cab15b2c90f4",
+    "spriteId": "d7f90047-1e8d-440c-9717-93739c4ad85f",
     "visible": true
 }

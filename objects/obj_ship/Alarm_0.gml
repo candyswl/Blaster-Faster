@@ -20,4 +20,5 @@ instance_create_layer(x+13, y+6, "Instances", obj_laser);
 /// @DnDVersion : 1
 /// @DnDHash : 25150770
 /// @DnDArgument : "steps" "15"
-alarm_set(0, 15);
+/// @DnDArgument : "alarm" "LASER"
+alarm_set(LASER, 15);
