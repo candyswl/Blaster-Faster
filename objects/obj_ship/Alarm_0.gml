@@ -22,3 +22,13 @@ instance_create_layer(x+13, y+6, "Instances", obj_laser);
 /// @DnDArgument : "steps" "15"
 /// @DnDArgument : "alarm" "LASER"
 alarm_set(LASER, 15);
+
+/// @DnDAction : YoYo Games.Common.If_Variable
+/// @DnDVersion : 1
+/// @DnDHash : 0C4D51C5
+/// @DnDArgument : "var" "LASER_UP"
+/// @DnDArgument : "value" "true"
+if(LASER_UP == true)
+{
+
+}
