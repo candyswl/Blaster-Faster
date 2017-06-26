@@ -1,38 +1,38 @@
 {
-    "id": "c6b38e2c-96e0-4e35-90ae-88bb512af4c7",
+    "id": "686c1cbd-096d-44a0-b831-7b09c8459819",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_laser",
+    "name": "obj_enemy_laser",
     "eventList": [
         {
-            "id": "25af5cf2-accc-4b07-9c3a-10d41a4ff789",
+            "id": "59a10409-83d0-4e88-bc6a-847aed74d451",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": true,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 0,
-            "m_owner": "c6b38e2c-96e0-4e35-90ae-88bb512af4c7"
+            "m_owner": "686c1cbd-096d-44a0-b831-7b09c8459819"
         },
         {
-            "id": "ab2e5556-d15e-4175-8fd9-2971c020b47a",
+            "id": "d8fd67e3-db41-4aff-9de5-97787abed4a7",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": true,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 7,
-            "m_owner": "c6b38e2c-96e0-4e35-90ae-88bb512af4c7"
+            "m_owner": "686c1cbd-096d-44a0-b831-7b09c8459819"
         },
         {
-            "id": "ef5a8437-beb4-43af-8a9d-a456d4422478",
+            "id": "dd31e4e1-06e3-4469-a144-291d1c883510",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": true,
-            "collisionObjectId": "0c4d1df1-d914-4e2b-9ea1-bf89d0d9ccb1",
+            "collisionObjectId": "a5ef8692-e3fe-4401-80ff-7c9f777ccee3",
             "enumb": 0,
             "eventtype": 4,
-            "m_owner": "c6b38e2c-96e0-4e35-90ae-88bb512af4c7"
+            "m_owner": "686c1cbd-096d-44a0-b831-7b09c8459819"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -51,6 +51,6 @@
     "physicsShapePoints": null,
     "physicsStartAwake": true,
     "solid": false,
-    "spriteId": "db6c8243-8b92-4110-b397-cab15b2c90f4",
+    "spriteId": "3c13d27a-a095-4526-984c-b57a92ace85e",
     "visible": true
 }

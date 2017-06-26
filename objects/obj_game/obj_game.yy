@@ -1,23 +1,33 @@
 {
-    "id": "59af7d34-56f4-403c-aa84-fceaa68ca5be",
+    "id": "71006f5e-b101-4423-9535-5ac8b69bc203",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_enemy01",
+    "name": "obj_game",
     "eventList": [
         {
-            "id": "b3aa1b81-97cf-44bf-8257-3f4ca72179d8",
+            "id": "d323a7ec-e40c-44b8-bca4-64cd2185f842",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": true,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 0,
-            "m_owner": "59af7d34-56f4-403c-aa84-fceaa68ca5be"
+            "m_owner": "71006f5e-b101-4423-9535-5ac8b69bc203"
+        },
+        {
+            "id": "2973a5a4-a81b-4a13-97a3-200e96e74202",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": true,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 8,
+            "m_owner": "71006f5e-b101-4423-9535-5ac8b69bc203"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
-    "parentObjectId": "0c4d1df1-d914-4e2b-9ea1-bf89d0d9ccb1",
-    "persistent": false,
+    "parentObjectId": "00000000-0000-0000-0000-000000000000",
+    "persistent": true,
     "physicsAngularDamping": 0.1,
     "physicsDensity": 0.5,
     "physicsFriction": 0.2,
@@ -31,6 +41,6 @@
     "physicsShapePoints": null,
     "physicsStartAwake": true,
     "solid": false,
-    "spriteId": "d7f90047-1e8d-440c-9717-93739c4ad85f",
+    "spriteId": "00000000-0000-0000-0000-000000000000",
     "visible": true
 }
