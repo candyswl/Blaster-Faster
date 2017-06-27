@@ -15,9 +15,9 @@ hspeed = choose(1,-1);
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
 /// @DnDHash : 324720B5
-/// @DnDArgument : "expr" "5"
+/// @DnDArgument : "expr" "4"
 /// @DnDArgument : "var" "hp"
-hp = 5;
+hp = 4;
 
 /// @DnDAction : YoYo Games.Instances.Set_Alarm
 /// @DnDVersion : 1

@@ -8,6 +8,6 @@ vspeed = 4;
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
 /// @DnDHash : 324720B5
-/// @DnDArgument : "expr" "3"
+/// @DnDArgument : "expr" "2"
 /// @DnDArgument : "var" "hp"
-hp = 3;
+hp = 2;

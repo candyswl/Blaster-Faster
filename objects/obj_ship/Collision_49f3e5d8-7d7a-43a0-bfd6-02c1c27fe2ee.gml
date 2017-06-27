@@ -15,5 +15,5 @@ alarm_set(LASER_UP, room_speed*5);
 /// @DnDAction : YoYo Games.Instances.Destroy_Instance
 /// @DnDVersion : 1
 /// @DnDHash : 75BC34C3
-/// @DnDApplyTo : a0f41416-983c-4ead-ae2f-f42cb587428c
-with(obj_laser_up) instance_destroy();
+/// @DnDApplyTo : other
+with(other) instance_destroy();
