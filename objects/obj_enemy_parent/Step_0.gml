@@ -34,10 +34,10 @@ if(hp <= 0)
 	/// @DnDVersion : 1
 	/// @DnDHash : 7BBECF1A
 	/// @DnDParent : 6D01EB9C
-	/// @DnDArgument : "expr" "10"
+	/// @DnDArgument : "expr" "100"
 	/// @DnDArgument : "expr_relative" "1"
 	/// @DnDArgument : "var" "score"
-	score += 10;
+	score += 100;
 
 	/// @DnDAction : YoYo Games.Instances.Destroy_Instance
 	/// @DnDVersion : 1

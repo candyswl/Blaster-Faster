@@ -14,3 +14,10 @@ with(obj_ship) {
 hp += -1;
 
 }
+
+/// @DnDAction : YoYo Games.Instances.Create_Instance
+/// @DnDVersion : 1
+/// @DnDHash : 1EB6A1AE
+/// @DnDArgument : "objectid" "obj_screen_flash"
+/// @DnDSaveInfo : "objectid" "6b42c3d2-53b2-4ba0-b291-9dfd4ce8b4d2"
+instance_create_layer(0, 0, "Instances", obj_screen_flash);
