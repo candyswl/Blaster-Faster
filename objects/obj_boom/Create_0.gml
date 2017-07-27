@@ -9,3 +9,9 @@ image_angle = random(360);
 /// @DnDHash : 7784735F
 /// @DnDArgument : "alpha" "0.8"
 image_alpha = 0.8;
+
+/// @DnDAction : YoYo Games.Common.Return
+/// @DnDVersion : 1
+/// @DnDHash : 0D7C4F8D
+/// @DnDArgument : "value" "scr_screenshake(8,room_speed*0.25)"
+return scr_screenshake(8,room_speed*0.25);
