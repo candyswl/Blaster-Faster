@@ -22,3 +22,10 @@ hp = 0;
 /// @DnDArgument : "objectid" "obj_screen_flash"
 /// @DnDSaveInfo : "objectid" "6b42c3d2-53b2-4ba0-b291-9dfd4ce8b4d2"
 instance_create_layer(0, 0, "Instances", obj_screen_flash);
+
+/// @DnDAction : YoYo Games.Audio.Play_Audio
+/// @DnDVersion : 1
+/// @DnDHash : 2455B1D3
+/// @DnDArgument : "soundid" "snd_ship_hit"
+/// @DnDSaveInfo : "soundid" "4ee23ab9-1d79-4eab-ae29-882ada5b34e7"
+audio_play_sound(snd_ship_hit, 0, 0);

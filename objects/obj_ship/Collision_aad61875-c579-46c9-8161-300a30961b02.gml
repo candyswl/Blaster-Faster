@@ -10,6 +10,13 @@
 hp += 1;
 hp = min(hp,4);
 
+/// @DnDAction : YoYo Games.Audio.Play_Audio
+/// @DnDVersion : 1
+/// @DnDHash : 0E1AA752
+/// @DnDArgument : "soundid" "snd_powerup"
+/// @DnDSaveInfo : "soundid" "d1ce07ca-f7d6-4fc2-81bf-dac37d7f27d6"
+audio_play_sound(snd_powerup, 0, 0);
+
 /// @DnDAction : YoYo Games.Instances.Destroy_Instance
 /// @DnDVersion : 1
 /// @DnDHash : 649FB63E

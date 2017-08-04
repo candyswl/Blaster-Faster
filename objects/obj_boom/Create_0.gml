@@ -15,3 +15,10 @@ image_alpha = 0.8;
 /// @DnDHash : 0D7C4F8D
 /// @DnDArgument : "value" "scr_screenshake(8,room_speed*0.25)"
 return scr_screenshake(8,room_speed*0.25);
+
+/// @DnDAction : YoYo Games.Audio.Play_Audio
+/// @DnDVersion : 1
+/// @DnDHash : 6427EDAE
+/// @DnDArgument : "soundid" "snd_explode"
+/// @DnDSaveInfo : "soundid" "7e26cbd1-a82c-4ba0-a9e4-48c233a4e4b4"
+audio_play_sound(snd_explode, 0, 0);

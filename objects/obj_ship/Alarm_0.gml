@@ -2,19 +2,19 @@
 /// @DnDVersion : 1
 /// @DnDHash : 64FB516A
 /// @DnDArgument : "xpos" "x-13"
-/// @DnDArgument : "ypos" "y"
+/// @DnDArgument : "ypos" "y-7"
 /// @DnDArgument : "objectid" "obj_laser"
 /// @DnDSaveInfo : "objectid" "c6b38e2c-96e0-4e35-90ae-88bb512af4c7"
-instance_create_layer(x-13, y, "Instances", obj_laser);
+instance_create_layer(x-13, y-7, "Instances", obj_laser);
 
 /// @DnDAction : YoYo Games.Instances.Create_Instance
 /// @DnDVersion : 1
 /// @DnDHash : 722701E8
 /// @DnDArgument : "xpos" "x+13"
-/// @DnDArgument : "ypos" "y"
+/// @DnDArgument : "ypos" "y-7"
 /// @DnDArgument : "objectid" "obj_laser"
 /// @DnDSaveInfo : "objectid" "c6b38e2c-96e0-4e35-90ae-88bb512af4c7"
-instance_create_layer(x+13, y, "Instances", obj_laser);
+instance_create_layer(x+13, y-7, "Instances", obj_laser);
 
 /// @DnDAction : YoYo Games.Instances.Set_Alarm
 /// @DnDVersion : 1
@@ -42,11 +42,11 @@ if(laser_up == true)
 	/// @DnDHash : 510ED9D5
 	/// @DnDParent : 0C4D51C5
 	/// @DnDArgument : "xpos" "x+13"
-	/// @DnDArgument : "ypos" "y"
+	/// @DnDArgument : "ypos" "y-7"
 	/// @DnDArgument : "var" "laser"
 	/// @DnDArgument : "objectid" "obj_laser"
 	/// @DnDSaveInfo : "objectid" "c6b38e2c-96e0-4e35-90ae-88bb512af4c7"
-	laser = instance_create_layer(x+13, y, "Instances", obj_laser);
+	laser = instance_create_layer(x+13, y-7, "Instances", obj_laser);
 
 	/// @DnDAction : YoYo Games.Movement.Set_Speed
 	/// @DnDVersion : 1
@@ -62,11 +62,11 @@ if(laser_up == true)
 	/// @DnDHash : 1B531B09
 	/// @DnDParent : 0C4D51C5
 	/// @DnDArgument : "xpos" "x-13"
-	/// @DnDArgument : "ypos" "y"
+	/// @DnDArgument : "ypos" "y-7"
 	/// @DnDArgument : "var" "laser"
 	/// @DnDArgument : "objectid" "obj_laser"
 	/// @DnDSaveInfo : "objectid" "c6b38e2c-96e0-4e35-90ae-88bb512af4c7"
-	laser = instance_create_layer(x-13, y, "Instances", obj_laser);
+	laser = instance_create_layer(x-13, y-7, "Instances", obj_laser);
 
 	/// @DnDAction : YoYo Games.Movement.Set_Speed
 	/// @DnDVersion : 1
@@ -82,11 +82,11 @@ if(laser_up == true)
 	/// @DnDHash : 792E3D0B
 	/// @DnDParent : 0C4D51C5
 	/// @DnDArgument : "xpos" "x+13"
-	/// @DnDArgument : "ypos" "y"
+	/// @DnDArgument : "ypos" "y-7"
 	/// @DnDArgument : "var" "laser"
 	/// @DnDArgument : "objectid" "obj_laser"
 	/// @DnDSaveInfo : "objectid" "c6b38e2c-96e0-4e35-90ae-88bb512af4c7"
-	laser = instance_create_layer(x+13, y, "Instances", obj_laser);
+	laser = instance_create_layer(x+13, y-7, "Instances", obj_laser);
 
 	/// @DnDAction : YoYo Games.Movement.Set_Speed
 	/// @DnDVersion : 1
@@ -102,11 +102,11 @@ if(laser_up == true)
 	/// @DnDHash : 5F86B97A
 	/// @DnDParent : 0C4D51C5
 	/// @DnDArgument : "xpos" "x-13"
-	/// @DnDArgument : "ypos" "y"
+	/// @DnDArgument : "ypos" "y-7"
 	/// @DnDArgument : "var" "laser"
 	/// @DnDArgument : "objectid" "obj_laser"
 	/// @DnDSaveInfo : "objectid" "c6b38e2c-96e0-4e35-90ae-88bb512af4c7"
-	laser = instance_create_layer(x-13, y, "Instances", obj_laser);
+	laser = instance_create_layer(x-13, y-7, "Instances", obj_laser);
 
 	/// @DnDAction : YoYo Games.Movement.Set_Speed
 	/// @DnDVersion : 1
